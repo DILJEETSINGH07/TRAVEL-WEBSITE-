@@ -1,2 +1,3 @@
 # TRAVEL-WEBSITE-
-Web site updated 2.0
+Web site updated 2.0 
+update again on 3b2 location 
